@@ -26,3 +26,15 @@ X
 (.idea/modules/Pluralsight-scala-path.iml,c/3/c32ede9a36762800f2526d993e317a55d8aac854
 ^
 ..idea/modules/Pluralsight-scala-path-build.iml,a/3/a345cc9ae62a22745104fe8c5d63e242188636df
+d
+4src/main/scala/oreilly/lesson3_Collections/Sheet3.sc,4/3/43d7a2952a846788336f10dc967f05986f694f16
+\
+,src/main/scala/oreilly/lesson4_OOP/Sheet4.sc,a/4/a4a10a04d33644919fcc42c7aecc3580bfa0c21e
+^
+.src/main/scala/Pluralsight/ScalaWithJava.scala,4/2/4294f17098b226f94c81567d30a0d8daa89f1903
+^
+.src/main/scala/oreilly/lesson4_OOP/MyApp.scala,1/b/1ba7f9ef1e1afe3a61a80ff2ab587bd579ce843e
+b
+2src/main/scala/oreilly/lesson4_OOP/sheet4_part2.sc,e/1/e1bfa9c75a9bdfc13cdb8845fe6745490a2aec2d
+t
+Dsrc/main/scala/oreilly/lesson5_Packages_Inheritance_Traits/Sheet5.sc,b/9/b9796b6bcf49cdb004c03a2ebf7245ee0f4c2393
